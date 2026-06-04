@@ -1,4 +1,4 @@
-# Hi, I'm Saif Ali 👋
+# Hi, I'm Saif 👋
 
 Senior Frontend Developer with 5+ years of experience building enterprise-scale web applications using Angular.
 
