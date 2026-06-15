@@ -55,17 +55,3 @@ linkedin.com/in/saif-ali-8019a811b
 
 Portfolio:
 saif-ali-warsi.github.io/saif-portfolio
-
-
-<iframe 
-  src="https://c.tenor.com/OF2oQX_PQ9UAAAAC/tenor.gif"
-  name="myiFrame"
-  width="600px"
-  height="260px"
-  scrolling="no"
-  marginwidth="0"
-  marginheight="0"
-  frameborder="1"
-  style="border:1px solid #000000; margin:0px 0px;"
-  allowfullscreen
-></iframe><div style=overflow:auto;position:absolute;height:0;width:0><a href=https://www.poper.ai/tools/iframe-generator/ >iFrame Generator</a></div>
