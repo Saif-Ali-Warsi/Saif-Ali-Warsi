@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Saif</h1>
-  <p><b>Senior Frontend Developer</b> with 5+ years of experience building enterprise web applications.</p>
+  <p><b>Senior Frontend Developer</b> with 7+ years of experience building enterprise web applications.</p>
 
   <!-- Tech Stack Badges -->
   <p>
@@ -43,7 +43,7 @@
 
 <div align="center">
   <h3>Connect With Me</h3>
-  <a href="[https://linkedin.com/in/saif-ali-8019a811b](https://www.linkedin.com/in/saif-ali-%D8%B3%D9%8A%D9%81-%D8%B9%D9%84%D9%8A-8019a811b)" target="_blank">
+  <a href="https://www.linkedin.com/in/saif-ali-%D8%B3%D9%8A%D9%81-%D8%B9%D9%84%D9%8A-8019a811b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://saif-ali-warsi.github.io/saif-portfolio" target="_blank">
