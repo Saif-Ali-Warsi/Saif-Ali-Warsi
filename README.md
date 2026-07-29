@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Saif</h1>
-  <p><b>Senior Frontend Developer</b> with 7+ years of experience building enterprise web applications.</p>
+  <p><b>Senior Frontend Developer</b> with 7+ years of experience building scalable, high-performance web applications, SaaS platforms, and e-commerce solutions.</p>
 
   <!-- Tech Stack Badges -->
   <p>
@@ -8,7 +8,10 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -23,17 +26,18 @@
     <td width="50%" valign="top">
       <h3>What I'm Up To</h3>
       <ul>
-        <li>Building advanced <b>Angular</b> & <b>React</b> applications</li>
-        <li>Exploring <b>Angular Signals</b> & State Management</li>
-        <li>Focusing on <b>Performance Optimization</b> & Clean Architecture</li>
+        <li>Building enterprise <b>SaaS & E-commerce</b> applications with <b>Angular</b> & <b>React</b></li>
+        <li>Integrating full-stack features using <b>Node.js</b> & <b>PostgreSQL</b></li>
+        <li>Implementing automated deployment pipelines via <b>GitHub Actions</b></li>
+        <li>Focusing on <b>Performance Optimization</b>, JWT authentication & Razorpay payment integration</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>Key Projects</h3>
       <ul>
-        <li><b>LMS Portal:</b> Role-based access, Reactive Forms, Guards</li>
-        <li><b>Job Portal:</b> RxJS data flow, advanced filtering & search</li>
-        <li><b>Inventory System:</b> Dynamic tables, pagination, REST APIs</li>
+        <li><b>Hyper Inventory:</b> SaaS Warehouse & Inventory management system with dynamic multi-warehouse CRUD tracking</li>
+        <li><b>Imaginext.co.in:</b> Live B2C E-commerce platform with Razorpay payments & secure JWT workflows</li>
+        <li><b>Medvise:</b> Healthcare monitoring dashboard for real-time patient vitals and data visualization</li>
       </ul>
     </td>
   </tr>
