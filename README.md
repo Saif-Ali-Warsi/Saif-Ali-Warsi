@@ -21,7 +21,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 What I'm Up To</h3>
+      <h3>What I'm Up To</h3>
       <ul>
         <li>Building advanced <b>Angular</b> & <b>React</b> applications</li>
         <li>Exploring <b>Angular Signals</b> & State Management</li>
@@ -29,7 +29,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ Key Projects</h3>
+      <h3>Key Projects</h3>
       <ul>
         <li><b>LMS Portal:</b> Role-based access, Reactive Forms, Guards</li>
         <li><b>Job Portal:</b> RxJS data flow, advanced filtering & search</li>
@@ -42,8 +42,8 @@
 <hr />
 
 <div align="center">
-  <h3>📫 Connect With Me</h3>
-  <a href="https://linkedin.com/in/saif-ali-8019a811b" target="_blank">
+  <h3>Connect With Me</h3>
+  <a href="[https://linkedin.com/in/saif-ali-8019a811b](https://www.linkedin.com/in/saif-ali-%D8%B3%D9%8A%D9%81-%D8%B9%D9%84%D9%8A-8019a811b)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://saif-ali-warsi.github.io/saif-portfolio" target="_blank">
