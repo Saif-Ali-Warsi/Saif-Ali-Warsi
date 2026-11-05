@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Saif</h1>
+  <h1>Hi 👋, I'm <span style="color:red"> Saif</span></h1>
   <p><b>Senior Developer</b> with 8 years of experience building scalable, high-performance web applications, SaaS platforms, and e-commerce solutions.</p>
 
   <!-- Tech Stack Badges -->
