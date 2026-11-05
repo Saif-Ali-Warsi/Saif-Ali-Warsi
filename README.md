@@ -2,32 +2,6 @@
   <h1>Hi 👋, I'm <span style="color:red"> Saif</span></h1>
   <p><b>Senior Developer</b> with 8 years of experience building scalable, high-performance web applications, SaaS platforms, and e-commerce solutions.</p>
 
-<svg fill="none" viewBox="0 0 600 200" width="600" height="200" xmlns="http://w3.org">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://w3.org">
-      <style>
-        .container {
-          font-family: system-ui, -apple-system, sans-serif;
-          background: linear-gradient(135deg, #070e1b 0%, #1e3a8a 100%);
-          color: white;
-          padding: 30px;
-          border-radius: 12px;
-          border: 2px solid #3b82f6;
-          text-align: center;
-          box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-        }
-        h1 { color: #60a5fa; margin-bottom: 5px; }
-        p { color: #94a3b8; font-size: 16px; }
-      </style>
-
-      <div class="container">
-        <h1>Custom CSS in a README!</h1>
-        <p>This looks like HTML/CSS, but it's actually an SVG image.</p>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
-
 
   <!-- Tech Stack Badges -->
   <p>
