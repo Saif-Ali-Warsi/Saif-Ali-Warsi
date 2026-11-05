@@ -6,9 +6,9 @@
         color: red;
         }
       </style>
-      
+      <div class="container">
         <h1>Hi there, my name is <span class="name"> Saif</span> 👋</h1>
-     
+      </div>
     </div>
   </foreignObject>
 </svg>
