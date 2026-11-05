@@ -1,8 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm <span style="color:red"> Saif</span></h1>
   <p><b>Senior Developer</b> with 8 years of experience building scalable, high-performance web applications, SaaS platforms, and e-commerce solutions.</p>
-
-
   <!-- Tech Stack Badges -->
   <p>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
