@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Saif</h1>
-  <p><b>Senior Web Developer</b> with 8 years of experience building scalable, high-performance web applications, SaaS platforms, and e-commerce solutions.</p>
+  <p><b>Senior Web Developer</b> with 8 years of experience building scalable, high-performance web applications and e-commerce solutions.</p>
   <!-- Tech Stack Badges -->
   <table width="100%" cellpadding="0" border="0">
   <tr>
